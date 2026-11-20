@@ -1,0 +1,6 @@
+{
+  "name": "ProtoReel",
+  "description": "Mobile-first showcase for student inventors to share project demo videos and connect with engineering employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
